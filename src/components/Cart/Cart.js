@@ -19,6 +19,8 @@ const Cart = (props) => {
       <p>Total before tax: ${totalBeforeTax.toFixed(2)}</p>
       <p>Estimated Tax: ${estimatedTax.toFixed(2)}</p>
       <p className="totalOrder">Order Total: ${totalOrder.toFixed(2)}</p>
+
+      <button className='btn-buy'>Buy Now</button>
     </div>
   );
 };

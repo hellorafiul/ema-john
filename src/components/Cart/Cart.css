@@ -3,3 +3,10 @@
   font-weight: bold;
   font-size: 26px;
 }
+.btn-buy{
+  background-color: #F7CA00;
+  padding: 10px 100px;
+  border: 1px solid #e7c52c;
+  border-radius: 50px;
+  cursor: pointer;
+}
